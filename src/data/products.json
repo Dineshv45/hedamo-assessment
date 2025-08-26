@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "name": "Hedamo Organic Honey",
+    "image": "/images/honey.jpg",
+    "category": "Food",
+    "description": "Pure wild honey harvested from organic farms.",
+    "features": ["Unprocessed", "Nutrient-rich", "Eco-friendly"],
+    "nutrition": { "Calories": "70 kcal", "Sugar": "15g", "Protein": "0.1g" },
+    "price": "$12.99",
+    "traceability": {
+      "Origin": "Himalayan Forests",
+      "Harvested": "March 2025",
+      "Batch": "HED-HNY-3025"
+    },
+    "reviews": [
+      { "user": "Amit", "comment": "Rich taste and pure quality." },
+      { "user": "Sophia", "comment": "Loved it in my morning tea!" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hedamo Coffee Beans",
+    "image": "/images/coffee.jpg",
+    "category": "Beverage",
+    "description": "Premium roasted coffee beans with bold aroma.",
+    "features": ["Freshly roasted", "Rich aroma", "Sustainably sourced"],
+    "nutrition": { "Calories": "5 kcal", "Caffeine": "95mg" },
+    "price": "$18.50",
+    "traceability": {
+      "Origin": "Ethiopia",
+      "Harvested": "April 2025",
+      "Batch": "HED-COF-0425"
+    },
+    "reviews": [
+      { "user": "Raj", "comment": "Perfect flavor and strong." },
+      { "user": "Emma", "comment": "Smooth and aromatic." }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hedamo Green Tea",
+    "image": "/images/tea.jpg",
+    "category": "Beverage",
+    "description": "Refreshing organic green tea leaves for daily wellness.",
+    "features": ["Antioxidant-rich", "Soothing aroma", "Organic certified"],
+    "nutrition": { "Calories": "2 kcal", "Caffeine": "30mg" },
+    "price": "$9.99",
+    "traceability": {
+      "Origin": "Darjeeling, India",
+      "Harvested": "Feb 2025",
+      "Batch": "HED-TEA-0225"
+    },
+    "reviews": [
+      { "user": "Kiran", "comment": "Really calming, great quality!" },
+      { "user": "Lily", "comment": "Love the freshness." }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Hedamo Dark Chocolate",
+    "image": "/images/chocolate.jpg",
+    "category": "Food",
+    "description": "Rich 70% dark chocolate crafted from cocoa beans.",
+    "features": ["70% cocoa", "Smooth texture", "Handcrafted"],
+    "nutrition": { "Calories": "170 kcal", "Sugar": "12g", "Protein": "2g" },
+    "price": "$6.50",
+    "traceability": {
+      "Origin": "Ghana",
+      "Harvested": "Jan 2025",
+      "Batch": "HED-CHO-0125"
+    },
+    "reviews": [
+      { "user": "Nina", "comment": "Perfect balance of bitter and sweet." },
+      { "user": "Max", "comment": "Melts perfectly in mouth." }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hedamo Herbal Tea",
+    "image": "/images/herbaltea.jpg",
+    "category": "Beverage",
+    "description": "Blend of calming herbs for stress relief.",
+    "features": ["Chamomile mix", "Caffeine-free", "Relaxing effect"],
+    "nutrition": { "Calories": "0 kcal" },
+    "price": "$7.99",
+    "traceability": {
+      "Origin": "Nilgiris, India",
+      "Harvested": "March 2025",
+      "Batch": "HED-HER-0325"
+    },
+    "reviews": [
+      { "user": "Olivia", "comment": "Perfect before bedtime." },
+      { "user": "Dev", "comment": "Really soothing taste." }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Hedamo Organic Spices Pack",
+    "image": "/images/spices.jpg",
+    "category": "Food",
+    "description": "Assorted organic spices with authentic aroma.",
+    "features": ["Chemical-free", "Handpicked", "Premium quality"],
+    "nutrition": { "Calories": "Varies" },
+    "price": "$15.00",
+    "traceability": {
+      "Origin": "Kerala, India",
+      "Harvested": "April 2025",
+      "Batch": "HED-SPI-0425"
+    },
+    "reviews": [
+      { "user": "Rohan", "comment": "Authentic flavors!" },
+      { "user": "Maya", "comment": "Makes dishes so much better." }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Hedamo Cold Brew Coffee",
+    "image": "/images/coldbrew.jpeg",
+    "category": "Beverage",
+    "description": "Smooth and refreshing cold brew concentrate.",
+    "features": ["Ready to drink", "Low acidity", "Refreshing"],
+    "nutrition": { "Calories": "15 kcal", "Caffeine": "120mg" },
+    "price": "$10.00",
+    "traceability": {
+      "Origin": "Colombia",
+      "Harvested": "Feb 2025",
+      "Batch": "HED-CB-0225"
+    },
+    "reviews": [
+      { "user": "Lucas", "comment": "Perfect morning drink." },
+      { "user": "Aria", "comment": "Super smooth!" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hedamo Almond Butter",
+    "image": "/images/almondbutter.jpg",
+    "category": "Food",
+    "description": "Creamy almond butter with no added sugar.",
+    "features": ["Protein-rich", "Vegan", "Gluten-free"],
+    "nutrition": { "Calories": "190 kcal", "Protein": "7g", "Fat": "16g" },
+    "price": "$11.25",
+    "traceability": {
+      "Origin": "California, USA",
+      "Harvested": "March 2025",
+      "Batch": "HED-AB-0325"
+    },
+    "reviews": [
+      { "user": "Isha", "comment": "So creamy and natural." },
+      { "user": "Tom", "comment": "My go-to breakfast spread." }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Hedamo Organic Oats",
+    "image": "/images/oats.jpg",
+    "category": "Food",
+    "description": "Wholesome rolled oats for a healthy start.",
+    "features": ["Whole grain", "High fiber", "Vegan"],
+    "nutrition": { "Calories": "150 kcal", "Protein": "5g", "Fiber": "4g" },
+    "price": "$5.75",
+    "traceability": {
+      "Origin": "Australia",
+      "Harvested": "Jan 2025",
+      "Batch": "HED-OAT-0125"
+    },
+    "reviews": [
+      { "user": "Sara", "comment": "Best oats I’ve had." },
+      { "user": "Aarav", "comment": "Makes breakfast healthy." }
+    ]
+  }
+]

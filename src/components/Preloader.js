@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useRef } from "react";
-import "../../styles/preloader.css";
+import "../styles/preloader.css";
 
 export default function Preloader({ onFinish }) {
   const counterRef = useRef(null);

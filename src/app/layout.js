@@ -1,9 +1,9 @@
 import Preloader from "../components/Preloader";
 import CustomCursor from "../components/CustomCursor";
-import "../../styles/page.css";
-import "../../styles/productDetails.css";
-import "../../styles/preloader.css";
-import "../../styles/cursor.css";
+import "../styles/page.css";
+import "../styles/productDetails.css";
+import "../styles/preloader.css";
+import "../styles/cursor.css";
 
 
 export const metadata = {

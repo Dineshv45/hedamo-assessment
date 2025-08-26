@@ -1,5 +1,5 @@
 import products from "../../../data/products.json";
-import "../../../../styles/productDetails.css";
+import "../../../styles/productDetails.css";
 
 export default function ProductDetails({ params }) {
   const product = products.find((p) => p.id === parseInt(params.id));

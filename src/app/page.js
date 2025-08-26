@@ -1,6 +1,6 @@
 import products from "../data/products.json";
 import ProductCard from "../components/ProductCard";
-import "../../styles/page.css";
+import "../styles/page.css";
 import HackerEffect from "../components/HackerEffect";
 
 export default function Home() {
